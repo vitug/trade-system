@@ -1,0 +1,1 @@
+Trade system based on t-statistics of logarithms prices increments.
